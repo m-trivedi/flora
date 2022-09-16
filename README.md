@@ -1,5 +1,5 @@
 # Flora
-An application which provides counselling services to high school students.
+A Python PyQT5 application that makes counselling services more accessible in over 10 schools
 
 ## Software and Libraries
 This project uses the following software and Python libraries:
