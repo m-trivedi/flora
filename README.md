@@ -1,7 +1,7 @@
 # Flora
-### A Python PyQT5 application that makes counselling services more accessible in over 10 schools
+A Python PyQT5 application that makes counselling services more accessible in over 10 schools
 
-## The Homepage
+### The Homepage
 
 <img src = "https://raw.githubusercontent.com/m-trivedi/flora/main/screenshots/flora-1.png" style = "height: 400px;">
 
