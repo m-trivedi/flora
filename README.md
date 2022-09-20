@@ -8,3 +8,5 @@ This project uses the following software and Python libraries:
 * [pandas](http://pandas.pydata.org/)
 * [mysql.connector](https://pypi.org/project/mysql-connector-python/)
 * [matplotlib](https://pypi.org/project/matplotlib/)
+
+<img src = "https://raw.githubusercontent.com/m-trivedi/flora/main/screenshots/flora-1.png">
