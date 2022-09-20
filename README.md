@@ -9,4 +9,4 @@ This project uses the following software and Python libraries:
 * [mysql.connector](https://pypi.org/project/mysql-connector-python/)
 * [matplotlib](https://pypi.org/project/matplotlib/)
 
-<img src = "https://raw.githubusercontent.com/m-trivedi/flora/main/screenshots/flora-1.png" style = "height: 300px;">
+<img src = "https://raw.githubusercontent.com/m-trivedi/flora/main/screenshots/flora-1.png" style = "height: 400px;">
