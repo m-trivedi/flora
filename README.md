@@ -9,7 +9,7 @@ The screenshot below shows the home page of the application. The application con
 ### The Login Page
 The screenshot below shows the login page of the application. The application communicates with a MySQL backend and checks if the entered user credentials are correct. If they are, the authentication of the user is set to true and other user information such as assigned counsellors, assigned school, classmates are brought up.
 
-<img src = "https://raw.githubusercontent.com/m-trivedi/flora/main/screenshots/flora-1.png" style = "height: 400px;">
+<img src = "https://raw.githubusercontent.com/m-trivedi/flora/main/screenshots/flora-2.png" style = "height: 400px;">
 
 ## Software and Libraries
 This project uses the following software and Python libraries:
