@@ -11,11 +11,12 @@ The screenshot below shows the login page of the application. The application co
 
 <img src = "https://raw.githubusercontent.com/m-trivedi/flora/main/screenshots/flora-2.png" style = "height: 400px;">
 
-<img src = "https://raw.githubusercontent.com/m-trivedi/flora/main/screenshots/flora-2.png" style = "height: 400px;">
 <img src = "https://raw.githubusercontent.com/m-trivedi/flora/main/screenshots/flora-3.png" style = "height: 400px;">
-<img src = "https://raw.githubusercontent.com/m-trivedi/flora/main/screenshots/flora-4png" style = "height: 400px;">
-<img src = "https://raw.githubusercontent.com/m-trivedi/flora/main/screenshots/flora-5.png" style = "height: 400px;">
+<img src = "https://raw.githubusercontent.com/m-trivedi/flora/main/screenshots/flora-4.png" style = "height: 400px;">
+<img src = "https://raw.githubusercontent.com/m-trivedi/flora/main/screenshots/flora-5png" style = "height: 400px;">
 <img src = "https://raw.githubusercontent.com/m-trivedi/flora/main/screenshots/flora-6.png" style = "height: 400px;">
+<img src = "https://raw.githubusercontent.com/m-trivedi/flora/main/screenshots/flora-7.png" style = "height: 400px;">
+<img src = "https://raw.githubusercontent.com/m-trivedi/flora/main/screenshots/flora-7.png" style = "height: 400px;">
 
 ## Software and Libraries
 This project uses the following software and Python libraries:
