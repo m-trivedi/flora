@@ -15,13 +15,23 @@ The screenshot below shows the login page of the application. The application co
 
 <img src = "https://raw.githubusercontent.com/m-trivedi/flora/main/screenshots/flora-3.png" style = "height: 400px;">
 
+### The Meetups Page
+
 <img src = "https://raw.githubusercontent.com/m-trivedi/flora/main/screenshots/flora-4.png" style = "height: 400px;">
+
+### The Request Meetup Page
 
 <img src = "https://raw.githubusercontent.com/m-trivedi/flora/main/screenshots/flora-5.png" style = "height: 400px;">
 
+### The People Page
+
 <img src = "https://raw.githubusercontent.com/m-trivedi/flora/main/screenshots/flora-6.png" style = "height: 400px;">
 
+### The Stats Page
+
 <img src = "https://raw.githubusercontent.com/m-trivedi/flora/main/screenshots/flora-7.png" style = "height: 400px;">
+
+### The Settings Page
 
 <img src = "https://raw.githubusercontent.com/m-trivedi/flora/main/screenshots/flora-8.png" style = "height: 400px;">
 
