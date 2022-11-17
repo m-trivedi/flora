@@ -17,7 +17,7 @@ The screenshot below shows the login page of the application. The application co
 
 <img src = "https://raw.githubusercontent.com/m-trivedi/flora/main/screenshots/flora-4.png" style = "height: 400px;">
 
-<img src = "https://raw.githubusercontent.com/m-trivedi/flora/main/screenshots/flora-5png" style = "height: 400px;">
+<img src = "https://raw.githubusercontent.com/m-trivedi/flora/main/screenshots/flora-5.png" style = "height: 400px;">
 
 <img src = "https://raw.githubusercontent.com/m-trivedi/flora/main/screenshots/flora-6.png" style = "height: 400px;">
 
